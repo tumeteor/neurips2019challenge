@@ -1,5 +1,5 @@
 # neurips2019challenge
-Solution for our Neurips 2019 challenge on traffic movie forecasting.
+Solution for our Neurips 2019 challenge on [traffic movie forecasting](https://www.iarai.ac.at/traffic4cast/conference-programme-2019/) - top contributor.
 
 # Background 
 ## Dataset
@@ -15,6 +15,5 @@ traffic) mapped to spatio-temporal cells, sampled every 5 minutes and of size 49
 
 # Getting started
 * `trainer.py` for training the model
-
 ## License
 Apache 2.0
