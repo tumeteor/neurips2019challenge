@@ -1,5 +1,5 @@
 # neurips2019challenge
-Solution for our Neurips 2019 challenge on [traffic movie forecasting](https://www.iarai.ac.at/traffic4cast/conference-programme-2019/) - top-6 teams.
+Solution for our Neurips 2019 challenge on [traffic movie forecasting](https://www.iarai.ac.at/traffic4cast/traffic4cast-conference-2019/) - top-6 teams.
 
 # Background 
 ## Dataset
